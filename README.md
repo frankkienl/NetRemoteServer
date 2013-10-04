@@ -9,7 +9,9 @@ Instructions:
 - Click 'pair'. This will show a QR-code
 - Scan the QR-code with you Smartphone
 - Open NetFlix video on your PC. Make sure the Netflix video has focus! (give it focus by clicking on it)
+
 (this is needed to make sure Netflix recieves the commands and not some other program)
 - Use the buttons on you smartphone to control the playback (and volume)
 
 ![Screenshot](https://raw.github.com/frankkienl/NetRemoteServer/master/netremote1.png "Screenshot")
+
