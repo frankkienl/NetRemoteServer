@@ -6,3 +6,5 @@
 *.ear
 /build/
 !/NetflixRemoteServer.jar
+!/NetRemoteServer.jar
+/nbproject/private/
