@@ -15,3 +15,6 @@ Instructions:
 
 ![Screenshot](https://raw.github.com/frankkienl/NetRemoteServer/master/netremote1.png "Screenshot")
 
+On the Smartphone:
+![Screenshot](https://raw.github.com/frankkienl/NetRemoteServer/master/netremote2.png "Screenshot")
+
