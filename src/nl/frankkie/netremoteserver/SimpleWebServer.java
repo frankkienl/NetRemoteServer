@@ -266,7 +266,7 @@ public class SimpleWebServer extends NanoHTTPD {
     /**
      * Starts as a standalone file server and waits for Enter.
      */
-    public static void main(String[] args) {
+    public static void mane(String[] args) {
         // Defaults
         port = 12345;
         String host = "127.0.0.1";
